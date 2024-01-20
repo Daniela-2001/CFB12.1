@@ -1,0 +1,30 @@
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula12.1\aula12.1\bin\Debug\net6.0\aula12.1.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula12.1\aula12.1\bin\Debug\net6.0\aula12.1.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula12.1\aula12.1\bin\Debug\net6.0\aula12.1.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula12.1\aula12.1\bin\Debug\net6.0\aula12.1.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula12.1\aula12.1\bin\Debug\net6.0\aula12.1.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula12.1\aula12.1\obj\Debug\net6.0\aula12.1.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula12.1\aula12.1\obj\Debug\net6.0\aula12.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula12.1\aula12.1\obj\Debug\net6.0\aula12.1.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula12.1\aula12.1\obj\Debug\net6.0\aula12.1.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula12.1\aula12.1\obj\Debug\net6.0\aula12.1.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula12.1\aula12.1\obj\Debug\net6.0\aula12.1.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula12.1\aula12.1\obj\Debug\net6.0\refint\aula12.1.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula12.1\aula12.1\obj\Debug\net6.0\aula12.1.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula12.1\aula12.1\obj\Debug\net6.0\aula12.1.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\Exercícios\aula12.1\aula12.1\obj\Debug\net6.0\ref\aula12.1.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula12\aula12.1\aula12.1\bin\Debug\net6.0\aula12.1.exe
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula12\aula12.1\aula12.1\bin\Debug\net6.0\aula12.1.deps.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula12\aula12.1\aula12.1\bin\Debug\net6.0\aula12.1.runtimeconfig.json
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula12\aula12.1\aula12.1\bin\Debug\net6.0\aula12.1.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula12\aula12.1\aula12.1\bin\Debug\net6.0\aula12.1.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula12\aula12.1\aula12.1\obj\Debug\net6.0\aula12.1.csproj.AssemblyReference.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula12\aula12.1\aula12.1\obj\Debug\net6.0\aula12.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula12\aula12.1\aula12.1\obj\Debug\net6.0\aula12.1.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula12\aula12.1\aula12.1\obj\Debug\net6.0\aula12.1.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula12\aula12.1\aula12.1\obj\Debug\net6.0\aula12.1.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula12\aula12.1\aula12.1\obj\Debug\net6.0\aula12.1.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula12\aula12.1\aula12.1\obj\Debug\net6.0\refint\aula12.1.dll
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula12\aula12.1\aula12.1\obj\Debug\net6.0\aula12.1.pdb
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula12\aula12.1\aula12.1\obj\Debug\net6.0\aula12.1.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Área de Trabalho\Estudy\C#\CFB\Aula CFB\aula12\aula12.1\aula12.1\obj\Debug\net6.0\ref\aula12.1.dll
